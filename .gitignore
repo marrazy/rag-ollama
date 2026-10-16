@@ -1,3 +1,11 @@
+# ChromaDB
+/chroma_db
+src/rag_ollama/chroma_db
+
+
+#vscode
+/.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

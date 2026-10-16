@@ -1,0 +1,7 @@
+My name is S and I am a current learning AI and cloud computing.
+
+My career goal is to become a devops/data engineer. Interested in AI and distributed systems.
+
+I have experience with Python and Docker. Currently building projects for my portfolio.
+
+For fun i enjoy learning about AI. Fun fact, i can play the guitar.
